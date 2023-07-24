@@ -15,5 +15,5 @@ developed by the members of the society and also facilitates collaborative devel
 our skills transfer programmes and hackathons which are typically held on-premises, 
 online and blended.🔆
 
-Follow UniZuluCSS on LinkedIn at "UniZulu Computer Science Society"🎈🎀
+## Follow UniZuluCSS on LinkedIn at "UniZulu Computer Science Society"🎈🎀
 https://www.linkedin.com/company/unizulu-computer-science-society
