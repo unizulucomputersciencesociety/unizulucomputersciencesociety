@@ -1,4 +1,5 @@
-## The world around us is changing.🌱💯
+## 😃Welcome to the Official UniZulu Computer Science Society GitHub Repos!
+The world around us is changing.🌱💯
 
 From digitalization to automation and virtualization, technological adoption is in the business,
 home, public institutions, transportation, health, commerce, defense, communication, research, 
